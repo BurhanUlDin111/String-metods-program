@@ -1,0 +1,7 @@
+.split(".") : That method is used to make pieces of a string according to parameter. It returns an array of String.
+.indexOf(char a): This method found a character in the String and returns index if found other wise returns -1.
+.subString(): This is used to return a part of string.
+.toCharArray(): That method is used to convert a string into array of characters.
+.trim(): This method is used to remove extra spaces from the string.
+.cotains(): This method is used to search a subString from the String.
+.getNumericValue() : This method is to be used for getting the ASCII value across a character.
